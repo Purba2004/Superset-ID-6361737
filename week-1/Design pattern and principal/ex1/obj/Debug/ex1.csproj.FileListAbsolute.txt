@@ -1,0 +1,7 @@
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Solution\week-1\Design pattern and principal\ex1\bin\Debug\ex1.exe.config
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Solution\week-1\Design pattern and principal\ex1\bin\Debug\ex1.exe
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Solution\week-1\Design pattern and principal\ex1\bin\Debug\ex1.pdb
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Solution\week-1\Design pattern and principal\ex1\obj\Debug\ex1.csproj.AssemblyReference.cache
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Solution\week-1\Design pattern and principal\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Solution\week-1\Design pattern and principal\ex1\obj\Debug\ex1.exe
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Solution\week-1\Design pattern and principal\ex1\obj\Debug\ex1.pdb

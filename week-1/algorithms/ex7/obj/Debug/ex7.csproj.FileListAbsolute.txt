@@ -1,0 +1,7 @@
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Solution\week-1\algorithms\ex7\bin\Debug\ex7.exe.config
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Solution\week-1\algorithms\ex7\bin\Debug\ex7.exe
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Solution\week-1\algorithms\ex7\bin\Debug\ex7.pdb
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Solution\week-1\algorithms\ex7\obj\Debug\ex7.csproj.AssemblyReference.cache
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Solution\week-1\algorithms\ex7\obj\Debug\ex7.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Solution\week-1\algorithms\ex7\obj\Debug\ex7.exe
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Solution\week-1\algorithms\ex7\obj\Debug\ex7.pdb
